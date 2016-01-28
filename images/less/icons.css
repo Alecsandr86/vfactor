@@ -1,0 +1,88 @@
+/* glue: 0.11.1 hash: 84acf67cf1 */
+.sit-ico2,
+.sit-ico1,
+.sit-ico3,
+.bitrix-ico,
+.slid-prev,
+.slid-next,
+.brob-ico,
+.timi-ico,
+.arrow-ico,
+.popup-ico,
+.header-phoint {
+  background-image: url('../compiled/icons.png?84acf67cf1');
+  background-repeat: no-repeat;
+  -webkit-background-size: 465px 386px;
+  -moz-background-size: 465px 386px;
+  background-size: 465px 386px;
+}
+@media screen and (-webkit-min-device-pixel-ratio: 1), screen and (min--moz-device-pixel-ratio: 1), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1), screen and (min-resolution: 1dppx) {
+  .sit-ico2,
+  .sit-ico1,
+  .sit-ico3,
+  .bitrix-ico,
+  .slid-prev,
+  .slid-next,
+  .brob-ico,
+  .timi-ico,
+  .arrow-ico,
+  .popup-ico,
+  .header-phoint {
+    background-image: url('../compiled/icons.png?84acf67cf1');
+  }
+}
+.sit-ico2 {
+  background-position: 0 0;
+  width: 192px;
+  height: 201px;
+}
+.sit-ico1 {
+  background-position: -192px 0;
+  width: 201px;
+  height: 185px;
+}
+.sit-ico3 {
+  background-position: 0 -201px;
+  width: 192px;
+  height: 185px;
+}
+.bitrix-ico {
+  background-position: -192px -201px;
+  width: 137px;
+  height: 82px;
+}
+.slid-prev {
+  background-position: -192px -283px;
+  width: 69px;
+  height: 95px;
+}
+.slid-next {
+  background-position: -261px -283px;
+  width: 69px;
+  height: 95px;
+}
+.brob-ico {
+  background-position: -393px 0;
+  width: 72px;
+  height: 63px;
+}
+.timi-ico {
+  background-position: -393px -63px;
+  width: 23px;
+  height: 28px;
+}
+.arrow-ico {
+  background-position: -416px -63px;
+  width: 16px;
+  height: 26px;
+}
+.popup-ico {
+  background-position: -432px -63px;
+  width: 20px;
+  height: 20px;
+}
+.header-phoint {
+  background-position: -393px -91px;
+  width: 18px;
+  height: 18px;
+}
