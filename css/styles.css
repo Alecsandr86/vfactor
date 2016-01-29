@@ -1132,6 +1132,9 @@ table td:last-child {
 .tal {
   text-align: left;
 }
+.tar {
+  text-align: right;
+}
 .text-castum {
   text-align: left;
   color: #8b8b8b;
@@ -1160,6 +1163,102 @@ table td:last-child {
 }
 .mor-img-1 {
   margin: 68px 0 0;
+}
+.mor-img-14 {
+  margin: 191px 0 0;
+}
+.anim-text-1 {
+  position: absolute;
+  top: 97px;
+  left: 139px;
+}
+.anim-text-2 {
+  position: absolute;
+  top: 119px;
+  right: 167px;
+}
+.bg-color-1 {
+  background-color: #3c69a8;
+  color: #fff;
+  padding-bottom: 108px;
+}
+.bg-color-1 .h1 {
+  color: #fff;
+}
+.tex-3 {
+  position: absolute;
+  top: 127px;
+  right: 158px;
+}
+.tex-4 {
+  position: absolute;
+  top: 243px;
+  right: 68px;
+}
+.tex-5 {
+  position: absolute;
+  top: 557px;
+  right: 187px;
+}
+.tex-6 {
+  position: absolute;
+  top: 750px;
+  right: 97px;
+}
+.poz-anim-b {
+  position: absolute;
+  top: 780px;
+  right: 0;
+  height: 100%;
+}
+p.margin-left {
+  margin-left: 132px;
+}
+.anim-text-7 {
+  position: absolute;
+  top: 105px;
+  left: 91px;
+}
+.anim-text-8 {
+  position: absolute;
+  top: 496px;
+  left: 276px;
+}
+.anim-text-9 {
+  position: absolute;
+  top: 280px;
+  left: 126px;
+}
+.anim-text-10 {
+  position: absolute;
+  top: 694px;
+  left: 204px;
+}
+.poz-anim-b-2 {
+  position: absolute;
+  top: 800px;
+  left: 0;
+}
+.pad-2 {
+  padding: 80px 0 250px;
+}
+.poz-anim-b-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mor-img-17 {
+  margin: 0 0 0 117px;
+}
+.anim-text-11 {
+  position: absolute;
+  top: 156px;
+  left: 56px;
+}
+.anim-text-12 {
+  position: absolute;
+  top: 450px;
+  left: 56px;
 }
 .img-10 {
   top: 37%;
