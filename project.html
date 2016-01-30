@@ -8,6 +8,7 @@
     <!--====== Подключение Шрифт  ============-->
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
     <!--====== Подключение Стилей  ============-->
+    <link href="css/animate.css" rel="stylesheet" type="text/css"/>                 <!-- Анимации  -->
     <link href="css/styles.css" rel="stylesheet" type="text/css"/>                  <!-- Стили  -->
 
 
@@ -140,12 +141,12 @@
             </div>
             <div class="animate-b">
                 <img class="mor-img-1" src="images/morento-img-1.png" alt="img">
-                <img class="wow mor-img-2" src="images/morenta-img-2.png" alt="img">
-                <img class="wow mor-img-3" src="images/morenta-img-3.png" alt="img">
+                <img class="wow bounceInLeft mor-img-2" data-wow-duration="2s" data-wow-delay="0.5s"  src="images/morenta-img-2.png" alt="img">
+                <img class="wow bounceInDown mor-img-3" data-wow-duration="2s" src="images/morenta-img-3.png" alt="img">
             </div>
             <div class="animate-b height-anim">
-                <img class="wow mor-img-4" src="images/morenta-img-4.png" alt="img">
-                <img class="wow mor-img-5" src="images/morenta-img-5.png" alt="img">
+                <img class="wow bounceInRight mor-img-4" data-wow-duration="2s" src="images/morenta-img-4.png" alt="img">
+                <img class="wow bounceInLeft mor-img-5" data-wow-duration="2s" src="images/morenta-img-5.png" alt="img">
             </div>
         </div>
     </section>
@@ -166,7 +167,7 @@
                 </p>
             </div>
             <img class="mar-img-7" src="images/morenta-img-7.png" alt="img">
-            <img class="wow mor-img-8" src="images/morenta-img-8.png" alt="img">
+            <img class="wow mor-img-8 bounceInRight" data-wow-duration="2s" src="images/morenta-img-8.png" alt="img">
         </div>
     </section>
     <section class="page-sections page-pad">
@@ -189,14 +190,10 @@
                 посмотреть статистику по объявлению, <br>
                 пополнить счет, изменить свой профиль.
             </p>
-            <img class="wow img-10" src="images/morento-img-10.png" alt="img">
-            <img class="wow img-11" src="images/morento-img-11.png" alt="img">
+            <img class="wow bounceInRight img-10" data-wow-duration="2s" src="images/morento-img-10.png" alt="img">
+            <img class="wow bounceInRight img-11" data-wow-duration="2s"  src="images/morento-img-11.png" alt="img">
         </div>
     </section>
-
-
-
-
     <section class="design-project bg-color">
         <div class="wrapper tal">
             <div class="content-project height-anim">
@@ -210,7 +207,6 @@
 
         </div>
     </section>
-
     <section class="customer-reviews">
         <div class="b-wr-customer">
             <div class="b-customer">
@@ -236,7 +232,6 @@
         </div>
         <a href="#popup-project" class="button-reguest big-button popup-link">Заказать похожий проект</a>
     </section>
-
     <section class="wr-request">
         <div class="request">
             <div class="wrapper">
@@ -394,6 +389,7 @@
 <script src="js/jquery.carouFredSel-6.2.1.js"></script>     <!-- slider -->
 <script src="js/jquery.formstyler.min.js"></script>         <!-- formstyler -->
 <script src="js/fancybox/jquery.fancybox.js"></script>      <!-- лайтбокс-->
+<script src="js/wow.min.js"></script>                       <!-- анимация при скролле-->
 <script src="js/main_script.js"></script>                   <!-- Мои скрипты -->
 
 
