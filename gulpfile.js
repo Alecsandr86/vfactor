@@ -6,13 +6,15 @@ var browserSync = require("browser-sync");
 var reload = browserSync.reload;
 
 
+
+
 gulp.task('less', function () {
-    return gulp.src('./css/**/*.less')
+    return gulp.src('./css/*.less')
         .pipe(less({
             paths: [ path.join(__dirname, 'less', 'includes') ]
         }))
         .pipe(gulp.dest('./css'))
-        .pipe(reload({stream: true}));
+        //.pipe(reload({stream: true}));
 });
 
 var config = {
