@@ -1419,6 +1419,41 @@ p.margin-left {
   text-align: center;
   color: #000;
 }
+.catalog {
+  background-color: #f6f6f6;
+  text-align: center;
+  padding: 50px 0;
+}
+.catalog p {
+  text-align: center;
+}
+.catalog-b-2 {
+  text-align: center;
+}
+.catalog-b-2 p {
+  text-align: center;
+  color: #000;
+}
+.cat-1 {
+  position: absolute;
+  top: 956px;
+  left: 122px;
+}
+.cat-2 {
+  position: absolute;
+  top: 1221px;
+  left: 122px;
+}
+.cat-3 {
+  position: absolute;
+  top: 1558px;
+  left: 122px;
+}
+.cat-4 {
+  position: absolute;
+  top: 1682px;
+  left: 122px;
+}
 footer:before {
   content: '';
   display: block;
