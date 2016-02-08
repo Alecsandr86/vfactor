@@ -1454,6 +1454,45 @@ p.margin-left {
   top: 1682px;
   left: 122px;
 }
+.list-animated {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.list-animated li {
+  display: inline-block;
+  margin: 0 5px;
+}
+.home-2-catalog {
+  background: url('../images/catal-hom-2.jpg') bottom center no-repeat;
+  text-align: center;
+  padding: 40px 0 30px;
+}
+.home-2-catalog p {
+  text-align: center;
+}
+.anim-home-2-1 {
+  position: absolute;
+  top: 539px;
+  right: 52px;
+}
+.anim-home-2-2 {
+  position: absolute;
+  top: 949px;
+  right: 50px;
+}
+.anim-home-2-3 {
+  position: absolute;
+  top: 1224px;
+  right: 118px;
+}
+.anim-home-2-4 {
+  position: absolute;
+  top: 1211px;
+  left: 117px;
+}
+.home-2-catalog-2 {
+  padding-bottom: 300px;
+}
 footer:before {
   content: '';
   display: block;
