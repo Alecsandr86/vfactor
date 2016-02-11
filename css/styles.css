@@ -27,6 +27,7 @@ body {
 .wrapper-mini {
   width: 980px;
   margin: 0 auto;
+  position: relative;
 }
 a {
   color: #333;
@@ -726,6 +727,8 @@ h1 {
   text-align: center;
   margin: 37px auto 26px;
   padding: 40px 4px 0 0;
+  position: relative;
+  z-index: 9;
 }
 .content-project {
   width: 627px;
@@ -1492,6 +1495,73 @@ p.margin-left {
 }
 .home-2-catalog-2 {
   padding-bottom: 300px;
+}
+.pedfo-img-1 {
+  position: absolute;
+  top: 47px;
+  left: 56.2%;
+}
+.pedfo-img-2 {
+  position: absolute;
+  top: 29px;
+  left: -8px;
+}
+.pedfo-img-3 {
+  position: absolute;
+  top: -19px;
+  right: 77px;
+}
+.pedfo-img-4 {
+  position: absolute;
+  bottom: -76px;
+  left: 120px;
+}
+.width-min {
+  width: 75.3%;
+  padding: 0 0 30px;
+}
+.pedfood-list li {
+  vertical-align: middle;
+}
+.content-project .pads {
+  margin: 30px 0 79px;
+}
+.pads-2 {
+  padding: 30px 0;
+}
+.pedfoods {
+  text-align: center;
+  padding: 50px 0;
+}
+.pedfoods p {
+  text-align: center;
+}
+.anim-pedf-1 {
+  position: absolute;
+  top: 261px;
+  left: 104px;
+}
+.anim-pedf-2 {
+  position: absolute;
+  top: 243px;
+  left: 366px;
+}
+.anim-pedf-3 {
+  position: absolute;
+  top: 452px;
+  left: 106px;
+}
+.anim-pedf-4 {
+  position: absolute;
+  top: 587px;
+  left: 86px;
+}
+.center-text {
+  text-align: center;
+  padding: 50px 0;
+}
+.center-text p {
+  text-align: center;
 }
 footer:before {
   content: '';
