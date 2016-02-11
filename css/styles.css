@@ -1563,6 +1563,61 @@ p.margin-left {
 .center-text p {
   text-align: center;
 }
+.perov-ico {
+  background: url('../images/perov-ico.png') 0 0 no-repeat;
+  width: 81px;
+  height: 54px;
+  position: absolute;
+  top: 40px;
+  right: 0;
+}
+.perov-desing .per-p {
+  position: relative;
+  width: 400px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 50px 0;
+}
+.padin {
+  padding: 30px 0;
+}
+.perov-b {
+  background-color: #2e3438;
+  padding: 83px 0;
+}
+.list-perov {
+  width: 61%;
+}
+.list-perov li {
+  width: 50%;
+  float: left;
+  margin: 0 0 40px;
+}
+.perov-1 {
+  position: absolute;
+  top: -18px;
+  left: 173px;
+}
+.perov-2 {
+  position: absolute;
+  top: 122px;
+  left: 203px;
+}
+.perov-b-2 {
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  padding: 50px 0;
+}
+.perov-b-2 p {
+  text-align: center;
+  color: #eaeaeb;
+}
+.perov-text-anim {
+  position: absolute;
+  top: 121px;
+  right: -10px;
+}
 footer:before {
   content: '';
   display: block;
