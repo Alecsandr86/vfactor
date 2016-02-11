@@ -721,12 +721,10 @@ h1 {
   text-decoration: none;
 }
 .titles-img-prej {
-  background: url(../images/browser-bg.png) 0 0 no-repeat;
   width: 808px;
   min-height: 629px;
   text-align: center;
   margin: 37px auto 26px;
-  padding: 40px 4px 0 0;
   position: relative;
   z-index: 9;
 }
